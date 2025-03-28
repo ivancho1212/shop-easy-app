@@ -1,0 +1,2 @@
+C:/Users/Puesto7/shop_easy/android/app/.cxx/RelWithDebInfo/675r4j64/x86/CMakeFiles/edit_cache.dir
+C:/Users/Puesto7/shop_easy/android/app/.cxx/RelWithDebInfo/675r4j64/x86/CMakeFiles/rebuild_cache.dir
